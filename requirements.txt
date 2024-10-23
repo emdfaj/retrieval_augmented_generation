@@ -1,0 +1,9 @@
+langchain
+chromadb
+pymupdf
+python-docx
+beautifulsoup4
+requests
+sentence-transformers
+openai
+gradio
