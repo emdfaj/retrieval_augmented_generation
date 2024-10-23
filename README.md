@@ -30,3 +30,27 @@ cd your-repo-name
 ```bash
 pip install -r requirements.txt
 ```
+
+## OpenAI API Key
+You will need an OpenAI API key to use this program. Follow these steps to set it up:
+
+1. Check the .env.sample file in the repository to see the required environment variables.
+
+2. Create a .env file in the project root (same directory as main_1.py) and add your OpenAI API key in the following format:
+```bash
+OPENAI_API_KEY=your_openai_api_key_here
+```
+
+## Usage
+1. Place the Documents:
+
+Ensure that the resume PDF file or any other documents you want to process are placed in the same directory as the main_1.py file. The program will use these files for analysis or processing.
+
+2. Run the Program:
+
+To execute the program, use the following command:
+```bash
+python main_1.py
+```
+
+This will process the documents in the directory and output the results based on the implemented logic.
