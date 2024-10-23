@@ -54,3 +54,6 @@ python main_1.py
 ```
 
 This will process the documents in the directory and output the results based on the implemented logic.
+
+
+Check the 'RAG(Langchain).ipynb' file for the documentation.
