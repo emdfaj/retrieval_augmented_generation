@@ -19,3 +19,11 @@ Before running this project, make sure you have the following:
 1. Clone the repository to your local machine:
 ```bash
 git clone https://github.com/your-username/your-repo-name.git
+
+2. Navigate to the project directory:
+```bash
+cd your-repo-name
+
+3. Install the required dependencies:
+```bash
+pip install -r requirements.txt
