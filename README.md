@@ -9,3 +9,13 @@ This project demonstrates the integration of data extraction, vectorization, and
 - **Question Embedding and Retrieval**: Embeds user queries and retrieves relevant information from ChromaDB using similarity-based search.
 - **Conversational Retrieval with Memory**: Enables a conversational AI system that handles follow-up questions with context, using conversation history stored in memory.
 - **Gradio Interface**: Provides an interactive web interface using Gradio, allowing users to ask questions and receive AI-generated answers based on the indexed data.
+
+## Prerequisites
+Before running this project, make sure you have the following:
+- Python 3.x installed
+- An OpenAI API key
+
+### Installation
+1. Clone the repository to your local machine:
+```bash
+git clone https://github.com/your-username/your-repo-name.git
